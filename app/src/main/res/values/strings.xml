@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Zadanie1</string>
+    <string name="button_start">Начать</string>
+    <string name="enter_password">Введите пароль</string>
+    <string name="enter_login">Введите логин</string>
+    <string name="title_first">Конвертер единиц информации</string>
+    <string name="title_second">Выбор единиц информации</string>
+    <string name="enter_digit">Введите число</string>
+    <string name="title_fierd">Конвертер единиц информации</string>
+
+    <string-array name="spinner_array">
+        <item>Байт</item>
+        <item>Килобайт</item>
+        <item>Мегабайт</item>
+        <item>Гигабайт</item>
+    </string-array>
+</resources>
